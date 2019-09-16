@@ -7,4 +7,5 @@ I did my undergrad in Mathematics and Statistics at McMaster University.
 
 
 My hobbies include sport statistics primarily focus in basketball as well as daily fantasy selection.
-I will be starting up blogs that show some of the information 
+I will be starting up blogs that show some of the information.
+
