@@ -8,5 +8,6 @@ title: Martin Stelmach
 	<p>I am trying to figure out how to upload a pdf document so bear with me.</p>
 	
 [another resume](../files/Martin Stelmach Resume 2019.pdf)
+
 </div><!-- /.blurb -->
 
