@@ -13,6 +13,3 @@ Over the holiday break, I took to creating an R Blogdown project and creating a 
 
 All other versions of this blog are md files, where as this will be my first rmd so I hope that mathematical symbols will show up???? $\sigma$
 
-$$
-\sum = 6^2
-$$
