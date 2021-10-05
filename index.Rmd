@@ -24,7 +24,7 @@ knitr::include_graphics("picofme.png")
 Hi. My name is Martin Stelmach. I am a recent graduate from McMaster University where I received a Masters in Science from the School of Computational Science and Engineering.
 :::
 \
-If you have an interest in epidemiology, statistics, data visualization or sports statistics please feel free to reach out to me. 
+If you have an interest in epidemiology, statistics, data visualization, sports statistics or anything else please feel free to reach out to me. 
 
 ### Contact information:
 
