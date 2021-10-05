@@ -1,7 +1,5 @@
 ---
 title: "Martin Stelmach"
-description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -16,3 +14,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("picofme.png")
+```
+\
+\
+Hi. My name is Martin Stelmach. I am a recent graduate from McMaster University where I received a Masters in Science from the School of Computational Science and Engineering.
+:::
+\
+If you have an interest in epidemiology, statistics, data visualization or sports statistics please feel free to reach out to me. 
+
+### Contact information:
+
+  ----------------------------------- -------------------------------------------------------------------------------
+  Email:\                             [martinstelmach\@hotmail.com](mailto:martinstelmach@hotmail.com%3Emartinstelmach@hotmail.com)\
+  Github:\                            [https://github.com/stelmacm](https://github.com/stelmacm)\
+  Twitter:\                           [https://twitter.com/PartyavecMarty](https://twitter.com/PartyavecMarty)\
+  
+  ----------------------------------- -------------------------------------------------------------------------------
