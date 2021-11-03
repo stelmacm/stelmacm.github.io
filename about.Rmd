@@ -1,10 +1,38 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About me"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Resume and CV
+
+- I have included my [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stelmacm/stelmacm.github.io/master/Martin_Stelmach_CV_2021.pdf) for anyone interested.
+- Please feel free to reach out for a more detailed version
+
+## Past Projects
+
+### Spatial WNS Model
+* Supervised by [Dr. Benjamin Bolker](https://ms.mcmaster.ca/~bolker/)
+* Created a spatio-temporal model of whitenose disease in bats via human to bat and bat to bat transmission
+* Currently in the processes of publishing paper 
+
+### McMaster Basketball 
+* Supervised by Coach [Patrick Tathum](https://marauders.ca/sports/mens-basketball/roster/coaches/patrick-tatham/868)
+* Created internal metrics of success for non-quantifiable actions
+* Aided in development of data-driven strategies to negate opposition strategty and reiterate our own strategy
+* Created visualization of statistics such that players could understand expectations and goals for the team
+* Instructed and led team of volunteers to count in-game, real-time statistics
+* Example: Hammer-Statistic: Number of 3-consecutive defensive stops per game. 4 Hammer points resulted in 60 percent win rate, 7 or more resulted in 95 percent win rate.
+
+## Extra-Curriculars
+
+### Science For Everyone 
+* Research and create topics to inform general public and increase science literacy for all viewers
+* Visit [Science for Everyone](https://www.scienceforeveryone.ca/) website for examples of past work
+
+### McMaster Theo-bio Lab
+* Reading a scientific paper weekly and discussing our thoughts and conclusions of the paper
+* The [MacTheoBio](https://mac-theobio.github.io/) group uses theoretical, statistical and computational approaches to study biology, with a particular focus on infectious disease, spatial ecology, evolution and many other things.
 
